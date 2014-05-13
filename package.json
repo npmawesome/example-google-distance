@@ -1,0 +1,19 @@
+{
+  "name": "example-google-distance",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the 'google-distance' module.",
+  "homepage": "http://npmawesome.com/posts/2014-05-01-google-distance/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:npmawesome/example-google-distance.git"
+  },
+  "keywords": [
+    "npmawesome",
+    "distance",
+    "geo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "google-distance": "^0.2.1"
+  }
+}
