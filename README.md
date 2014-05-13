@@ -12,4 +12,4 @@ and an advanced one
 
     node advanced.js
 
-If you have questions, feel free to leave comments under the [article](http://npmawesome.com/posts/2014-05-01-google-distance/).
+If you have questions, feel free to leave a comment under the [article](http://npmawesome.com/posts/2014-05-01-google-distance/).
