@@ -8,8 +8,12 @@ Install the dependencies first (`npm install`) and then be blinded by two shiny 
 
     node basic.js
 
-and an advanced one
+an advanced one
 
     node advanced.js
+
+and a crazy one (not sooo crazy)
+
+    node crazy.js
 
 If you have questions, feel free to leave a comment under the [article](http://npmawesome.com/posts/2014-05-01-google-distance/).
