@@ -1,12 +1,14 @@
-{ index: null,
-  distance: '4,669 km',
-  distanceValue: 4669361,
-  duration: '1 day 18 hours',
-  durationValue: 151994,
-  origin: '165-199 West 47th Street, New York, NY 10036, USA',
-  destination: '400-438 22nd Street, Oakland, CA 94612, USA',
-  mode: 'driving',
-  units: 'metric',
-  language: 'en',
-  avoid: null,
-  sensor: false }
+{
+    index: null,
+    distance: '4,669 km',
+    distanceValue: 4669361,
+    duration: '1 day 18 hours',
+    durationValue: 151994,
+    origin: '165-199 West 47th Street, New York, NY 10036, USA',
+    destination: '400-438 22nd Street, Oakland, CA 94612, USA',
+    mode: 'driving',
+    units: 'metric',
+    language: 'en',
+    avoid: null,
+    sensor: false
+}
