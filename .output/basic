@@ -1,0 +1,14 @@
+{
+    index: null,
+    distance: '4,447 km',
+    distanceValue: 4447040,
+    duration: '1 day 17 hours',
+    durationValue: 146399, // in seconds
+    origin: 'New York, NY, USA',
+    destination: 'San Diego, CA, USA',
+    mode: 'driving',
+    units: 'metric',
+    language: 'en',
+    avoid: null,
+    sensor: false
+}

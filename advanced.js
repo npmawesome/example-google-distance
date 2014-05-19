@@ -1,20 +1,3 @@
-/*
- * example-google-distance
- *
- * Copyright(c) 2014 npmawesome.com
- * MIT Licensed
- *
- * @author André König <andre.koenig@posteo.de>
- * 
- */
-
-/**
- * Usage:
- *
- *     node advanced.js
- * 
- */
-
 'use strict';
 
 var distance = require('google-distance');
